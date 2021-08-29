@@ -1,0 +1,10 @@
+openapi: 3.0.0
+info: 
+  title: Dados SmartEye API
+  description: Envia dados coletados pelo arduino 
+  version: 0.0.1
+
+servers: 
+  - url: https://apimocha.com/smarteyedata
+    description: endpoint dummy para simular o envio de dados
+
